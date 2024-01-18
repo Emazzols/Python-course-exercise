@@ -19,4 +19,5 @@ jobs:
           else
             echo "ERROR: README.md does not contain your name. Commit not allowed."
             exit 1
+          fi
     
